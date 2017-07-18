@@ -1,0 +1,15 @@
+{
+  "name": "ccdockerd",
+  "version": "1.0.0",
+  "description": "Repository Server for ccdocker",
+  "main": "index.js",
+  "repository": "https://github.com/jaredallard/ccdockerd",
+  "author": "Jared Allard <jared@staymarta.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "fs-promise": "^2.0.3",
+    "mkdirp": "^0.5.1"
+  }
+}
