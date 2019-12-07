@@ -1,1 +1,3 @@
 node_modules
+# Ignore all images other than craftos
+images
